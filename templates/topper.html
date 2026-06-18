@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Topper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="page-container">
+
+<h1>Student Performance Tracker</h1>
+
+<div class="form-card">
+
+<h2>🏆 Top Performer(s)</h2>
+
+{% for topper in toppers %}
+
+<p>
+    <strong>Name:</strong> {{ topper[1] }}
+</p>
+
+<p>
+    <strong>Roll Number:</strong> {{ topper[0] }}
+</p>
+
+<hr>
+
+{% endfor %}
+
+<p>
+    <strong>Average Marks:</strong>
+    {{ average }}
+</p>
+
+</div>
+
+<a href="/" class="back-btn">
+← Back to Home
+</a>
+
+</div>
+
+</body>
+</html>

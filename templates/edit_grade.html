@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Grade</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="page-container">
+
+<h1>Student Performance Tracker</h1>
+
+<div class="form-card">
+
+<h2>Edit Grade</h2>
+
+<form method="POST">
+
+<label>Roll Number</label>
+
+<input
+type="text"
+value="{{ grade[1] }}"
+readonly>
+
+<label>Subject</label>
+
+<input
+type="text"
+name="subject"
+value="{{ grade[2] }}"
+required>
+
+<label>Marks</label>
+
+<input
+type="number"
+name="marks"
+value="{{ grade[3] }}"
+min="0"
+max="100"
+required>
+
+<br><br>
+
+<button type="submit">
+Update Grade
+</button>
+
+</form>
+
+</div>
+
+<a href="/view_students" class="back-btn">
+← Back to Students
+</a>
+
+</div>
+
+</body>
+</html>
