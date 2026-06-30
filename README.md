@@ -1,4 +1,8 @@
-# 🎓 Student Performance Tracker
+<p align="center">
+  <img src="assets/github_banner.png" alt="Student Performance Tracker Banner" width="100%">
+</p>
+
+## 🎓 Student Performance Tracker
 
 <div align="center">
 
