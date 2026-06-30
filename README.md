@@ -128,7 +128,7 @@ StudentPerformanceTracker/
 ├── static/
 ├── templates/
 ├── documentation/
-│   └── User_Guide.pdf
+│   └── Student_Performance_Tracker_user_guide MySQL.pdf
 ├── screenshots/
 ├── app.py
 ├── db.py
