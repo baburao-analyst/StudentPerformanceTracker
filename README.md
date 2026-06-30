@@ -53,7 +53,7 @@ The project demonstrates backend development using Flask, relational database ma
 
 - 👨‍🎓 Add New Students
 - 📝 Assign Subject-wise Grades
-- 🔍 Search Students by Roll Number
+- 🔍 Search Students by Roll Number or Name
 - 📋 View Student Details
 - ✏️ Edit Student Grades
 - 🗑️ Delete Student Records
@@ -117,3 +117,85 @@ Interactive charts provide a visual overview of student performance and academic
 ## 📊 Class Average
 
 ![Class Average](screenshots/class_average.png)
+
+---
+
+# 📂 Project Structure
+
+```
+StudentPerformanceTracker/
+│
+├── static/
+├── templates/
+├── documentation/
+│   └── User_Guide.pdf
+├── screenshots/
+├── app.py
+├── db.py
+├── create_tables.py
+├── requirements.txt
+├── Procfile
+├── README.md
+└── .gitignore
+```
+
+---
+
+# ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/baburao-analyst/StudentPerformanceTracker.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd StudentPerformanceTracker
+```
+
+3. Install the required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Configure your MySQL database (Aiven or local MySQL).
+
+5. Create the required tables
+
+```bash
+python create_tables.py
+```
+
+6. Run the Flask application
+
+```bash
+python app.py
+```
+
+---
+
+# 📖 Documentation
+
+The complete User Guide is available in the **documentation** folder.
+
+```
+documentation/Student_Performance_Tracker_user_guide MySQL.pdf
+```
+
+---
+
+# 👨‍💻 Author
+
+**Pulakala Babu Rao**
+
+GitHub:
+https://github.com/baburao-analyst
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving this repository a ⭐ on GitHub.
