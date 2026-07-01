@@ -79,44 +79,37 @@ The dashboard provides quick navigation to all major modules of the application.
 ![Home Dashboard](screenshots/home_dashboard.png)
 
 
-
 ### 📈 Dashboard Analytics
 
 Interactive charts provide a visual overview of student performance and academic statistics.
 
 ![Dashboard Charts](screenshots/home_charts.png)
 
----
 
 ### 👨‍🎓 Add Student
 
 ![Add Student](screenshots/add_student.png)
 
----
 
 ### 📝 Add Grades
 
 ![Add Grades](screenshots/add_grade.png)
 
----
 
 ### 📋 View Students
 
 ![View Students](screenshots/view_students.png)
 
----
 
 ### 🔍 Search Student
 
 ![Search Student](screenshots/search_student.png)
 
----
 
 ### 🏆 Find Topper
 
 ![Find Topper](screenshots/topper.png)
 
----
 
 ### 📊 Class Average
 
