@@ -2,11 +2,11 @@
   <img src="assets/github_banner.png" alt="Student Performance Tracker Banner" width="100%">
 </p>
 
-# 🎓 Student Performance Tracker
+## 🎓 Student Performance Tracker
 
 <div align="center">
 
-### 📚 A Full-Stack Student Management Web Application
+### 📚 A Full-Stack Student Management System built using Flask and MySQL with cloud database integration.
 
 **Developed using Flask, MySQL, HTML, CSS and Aiven Cloud Database**
 
