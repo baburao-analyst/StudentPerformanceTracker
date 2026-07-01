@@ -88,32 +88,44 @@ Interactive charts provide a visual overview of student performance and academic
 
 ### 👨‍🎓 Add Student
 
+Register a new student in the system.
+
 ![Add Student](screenshots/add_student.png)
 
 
 ### 📝 Add Grades
+
+Add subject-wise marks for a student.
 
 ![Add Grades](screenshots/add_grade.png)
 
 
 ### 📋 View Students
 
+Display all student records.
+
 ![View Students](screenshots/view_students.png)
 
 
 ### 🔍 Search Student
 
+Search for a student by roll-number or name.
+
 ![Search Student](screenshots/search_student.png)
-
-
-### 🏆 Find Topper
-
-![Find Topper](screenshots/topper.png)
 
 
 ### 📊 Class Average
 
+Display average marks for students.
+
 ![Class Average](screenshots/class_average.png)
+
+
+### 🏆 Find Topper
+
+Identify the highest-performing student(s).
+
+![Find Topper](screenshots/topper.png)
 
 ---
 
