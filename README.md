@@ -2,7 +2,7 @@
   <img src="assets/github_banner.png" alt="Student Performance Tracker Banner" width="100%">
 </p>
 
-## 🎓 Student Performance Tracker
+# 🎓 Student Performance Tracker
 
 <div align="center">
 
@@ -70,17 +70,17 @@ The project demonstrates backend development using Flask, relational database ma
 
 ---
 
-# 📸 Project Screenshots
+## 📸 Project Screenshots
 
-## 🏠 Home Dashboard
+### 🏠 Home Dashboard
 
 The dashboard provides quick navigation to all major modules of the application.
 
 ![Home Dashboard](screenshots/home_dashboard.png)
 
----
 
-## 📈 Dashboard Analytics
+
+### 📈 Dashboard Analytics
 
 Interactive charts provide a visual overview of student performance and academic statistics.
 
@@ -88,43 +88,43 @@ Interactive charts provide a visual overview of student performance and academic
 
 ---
 
-## 👨‍🎓 Add Student
+### 👨‍🎓 Add Student
 
 ![Add Student](screenshots/add_student.png)
 
 ---
 
-## 📝 Add Grades
+### 📝 Add Grades
 
 ![Add Grades](screenshots/add_grade.png)
 
 ---
 
-## 📋 View Students
+### 📋 View Students
 
 ![View Students](screenshots/view_students.png)
 
 ---
 
-## 🔍 Search Student
+### 🔍 Search Student
 
 ![Search Student](screenshots/search_student.png)
 
 ---
 
-## 🏆 Find Topper
+### 🏆 Find Topper
 
 ![Find Topper](screenshots/topper.png)
 
 ---
 
-## 📊 Class Average
+### 📊 Class Average
 
 ![Class Average](screenshots/class_average.png)
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 StudentPerformanceTracker/
@@ -145,7 +145,7 @@ StudentPerformanceTracker/
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 1. Clone the repository
 
@@ -181,7 +181,7 @@ python app.py
 
 ---
 
-# 📖 Documentation
+## 📖 Documentation
 
 The complete User Guide is available in the **documentation** folder.
 
@@ -191,7 +191,7 @@ documentation/Student_Performance_Tracker_user_guide MySQL.pdf
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Pulakala Babu Rao**
 
